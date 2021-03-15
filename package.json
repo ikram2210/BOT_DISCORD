@@ -1,0 +1,22 @@
+{
+  "name": "bot_discord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikram2210/BOT_DISCORD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikram2210/BOT_DISCORD/issues"
+  },
+  "homepage": "https://github.com/ikram2210/BOT_DISCORD#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
